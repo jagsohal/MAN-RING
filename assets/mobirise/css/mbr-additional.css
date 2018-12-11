@@ -1376,10 +1376,7 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-rbVHzWXesw {
-  background-image: url("../../../assets/images/jesse-orrico-184803-unsplash-2000x1325.jpg");
-}
-.cid-rbVHzWXesw .mbr-section-subtitle {
+.cid-rbVNrPJTWt .mbr-section-subtitle {
   letter-spacing: .2rem;
 }
 .cid-rbVIzBh90H {
@@ -1449,11 +1446,11 @@ body {
     width: 100% !important;
   }
 }
-.cid-rbVKcY8HsZ {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ac7c3a;
+.cid-rbVHzWXesw {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/jesse-orrico-184803-unsplash-2000x1325.jpg");
 }
-.cid-rbVNrPJTWt .mbr-section-subtitle {
+.cid-rbVHzWXesw .mbr-section-subtitle {
   letter-spacing: .2rem;
 }
