@@ -1411,6 +1411,19 @@ body {
     width: 100% !important;
   }
 }
+.cid-rbVLRHDhQU {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rbVLRHDhQU .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rbVLRHDhQU .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rbVJIRsYti {
   background: #ffffff;
   padding-top: 60px;
